@@ -1,0 +1,90 @@
+====================LOST=ITEM====================
+Mugdho Lost a Item! 
+User Information: 
+
+Name: Mugdho
+ID: 25-60856-1
+University: AIUB
+User Type: Admin
+Contact: mugdho024@gmail.com
+
+Information about the Item:
+
+Item Name: Knife
+Catergory: Electronics
+Location: Annex 9
+Color: White
+Condition: Damaged 
+=================================================
+===================FOUND=ITEM====================
+Sourov Found a Item! 
+User Information: 
+
+Name: Sourov
+ID: UV
+University: AIUB
+User Type: Visitor
+Contact: sourov@yahoo.com
+
+Information about the Item:
+
+Item Name: BitLobon
+Catergory: Other...
+Location: Annex 10
+Color: White
+Condition: Dirty 
+=================================================
+====================LOST=ITEM====================
+Mugdho3 Lost a Item! 
+User Information: 
+
+Name: Mugdho3
+ID: 242342345
+University: AIUB
+User Type: Student
+Contact: mugdho@gmail.com
+
+Information about the Item:
+
+Item Name: Doll
+Catergory: Electronics
+Location: Near Annex 10
+Color: Red
+Condition: Good 
+=================================================
+====================LOST=ITEM====================
+Mahmud Amin Mugdho Lost a Item! 
+User Information: 
+
+Name: Mahmud Amin Mugdho
+ID: 32424
+University: AIUB
+User Type: Faculty 
+Contact: 435353
+
+Information about the Item:
+
+Item Name: Key
+Catergory: Accessories
+Location: Annex 2
+Color: Grey
+Condition: Good 
+=================================================
+====================LOST=ITEM====================
+mah Lost a Item! 
+User Information: 
+
+Name: mah
+ID: eqw
+University: North South
+User Type: Visitor
+Contact: weq 
+
+Information about the Item:
+
+Item Name: qweq
+Catergory: Electronics
+Location: ewwqe
+Color: White
+Condition: Damaged 
+=================================================
